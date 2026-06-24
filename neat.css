@@ -83,6 +83,20 @@ img.rect {
 }
 
 
+div.hero-wrap {
+    position: relative;
+    width: 100vw;
+    margin-left: calc(50% - 50vw);
+    overflow: hidden;        /* contain the image */
+}
+
+img.hero {
+    display: block;
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 0;
+}
 
 img.headerimg {
     display: block;
