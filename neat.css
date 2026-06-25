@@ -76,18 +76,41 @@ img {
 }
 
 /* changes by pascal */
-img.rect {
-    max-width: 100%;
-    height: auto;
-    border-radius: 0px;
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
 }
 
-
-div.hero-wrap {
+.hero-wrap {
     position: relative;
     width: 100vw;
     margin-left: calc(50% - 50vw);
     overflow: hidden;        /* contain the image */
+}
+
+.bottom-right-caption {
+    position: absolute;
+    bottom: 1%;
+    right: 2%;
+    font-size: xx-small;
+    color: var(--lesslight);
+}
+
+h1.titlethingie {
+  position: absolute;
+  top: 3%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  color: var(--light);
+}
+
+img.rect {
+    max-width: 100%;
+    height: auto;
+    border-radius: 0px;
 }
 
 img.hero {

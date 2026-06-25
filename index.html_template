@@ -10,10 +10,13 @@
 
 <body>
 
-<div class="hero.wrap">
+<div class="container">
 <img class="hero" src="header.jpg">
-<h1>Learning on Graphs and Geometry Meetup Leipzig</h1>
+<div class="bottom-right-caption">Leipziger Herbst im Rosental von Thomas Wagner | <a href="https://www.luftbilder-leipzig.de">Luftbilder Leipzig</a></div>
+<h1 class="titlethingie">Learning on Graphs and Geometry Meetup Leipzig</h1>
 </div>
+
+
 
 <center><em> Monday, 9 November and Tuesday, 10. November 2026, Leipzig, Germany</em></center> <br />
 
