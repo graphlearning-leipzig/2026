@@ -98,7 +98,7 @@ img {
     color: var(--lesslight);
 }
 
-h1.titlethingie {
+.titlethingie {
   position: absolute;
   top: 3%;
   left: 50%;
