@@ -242,10 +242,15 @@ The accepted papers/posters will be published on this website and will not be co
 </li>
 </ul>
 
-<!-- <h2 id="pc"> Program Committee</h2>
-<ul class="centered">
-<li>tbc</li>
-</ul>  -->
+<h2 id="funding">Funding</h2>
+
+<ul class="organizers">
+<li class="center">
+  <a href="https://www.leipzig-science-network.de/" target=_blank>
+  <img class="rect" src="lsn_logo.jpg" width="200px" height="auto" alt="Leipzig Science Network Logo"><br/>
+  </a>
+</li>
+</ul>
 
 <!-- the footer -->
 <p class="discreet">This page tries to be minimalistic in layout, bandwith, and used tools. It is hosted on <a href="https://github.com/mlg-europe">github pages</a>, using <a href="https://neat.joeldare.com/">neat.css</a> stylesheets, and <a href="https://bibtexparser.readthedocs.org">bibtexparser</a> to generate the lists of papers.</p>
