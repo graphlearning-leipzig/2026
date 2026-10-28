@@ -95,14 +95,54 @@ The accepted papers/posters will be published on this website and will not be co
 
 <h3> Monday </h3>
 <table>
-    <tr><td valign="top">10.00h</td> <td> <b>Welcome Coffee</td> </tr>
-    <tr><td valign="top">10.30h</td> <td> <b>Begin of the Morning Program</b>
+    <tr><td valign="top">10.00h</td> <td><b>Welcome Coffee</b></td> </tr>
+    <tr><td valign="top">10.30h</td> <td> 
+      <b>Contributed Talk</b><br/>
+      Kossi Amouzouvi:
+      <i>Graphlets as Building Blocks for Structural Vocabulary in Knowledge Graph Foundation Models</i>
     </td> </tr>
-    <tr><td valign="top">12.30h</td> <td> <b>Lunch</b>
+
+    <tr><td valign="top">11.00h</td> <td> <b>Coffee Break</b></td> </tr>
+
+    <tr><td valign="top">11.30h</td> <td> 
+      <b>Contributed Talk</b><br/>
+      Daumantas Kojelis:
+      <i>Constant-Depth Rational-Weight GNNs and their Connection to Schanuel's Conjecture</i>
     </td> </tr>
-    <tr><td valign="top">14.00h</td> <td> <b>Begin of the Afternoon Program</b>
+
+    <tr><td valign="top">12.00h</td> <td> <b>Welcome Remarks</b>
     </td> </tr>
-    <tr><td valign="top">17.00h</td> <td> <b>Begin of Poster Session</b><br />
+
+    <tr><td valign="top">12.15h</td> <td> <b>Lunch</b>
+    </td> </tr>
+
+    <tr><td valign="top">14.00h</td> <td> 
+      <b>Contributed Talk</b><br/>
+      Maurice Funk: 
+      <i>Understanding the Expressive Power of GNNs with Global Readout</i>
+    </td> </tr>
+    <tr><td valign="top">14.30h</td> <td> 
+      <b>Contributed Talk</b><br/>
+      Marzieh Eidi:
+      <i>Graph and Hypergraph Learning for Complex Network Analysis</i>
+    </td> </tr>
+
+    <tr><td valign="top">15.00h</td> <td> <b>Coffee Break</b>
+    </td> </tr>
+
+    <tr><td valign="top">15.30h</td> <td> 
+      <b>Contributed Talk</b><br/>
+      Lukas Böhm:
+      <i>GCGen: Generating Synthetic Graph Datasets for Structural Rule Discovery</i>
+    </td> </tr>
+
+    <tr><td valign="top">16.00h</td> 
+      <td> <b>Invited Talk</b><br />
+        Franka Bause
+        <i></i>
+    </td> </tr>
+
+    <tr><td valign="top">17.00h</td> <td> <b>Begin of Poster Session and Discussion Round</b><br />
     <tr><td valign="top">20.00h</td> <td> <b>End of Official Program</b>
     </td> </tr>
 </table>
